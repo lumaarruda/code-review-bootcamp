@@ -27,4 +27,4 @@ Repositório criado temporariamente, para que possamos subir nossos códigos mai
  - `git push -u origin nome-da-sua-branch` (para o primeiro commit)
  - `git push` (para os demais commits)
  
- ##Sejam bem vindos e mão na massa! 💻
+ ## Sejam bem vindos e mão na massa! 💻
